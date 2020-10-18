@@ -3,6 +3,6 @@ package ba.unsa.rpr;
 public class Main {
 
     public static void main(String[] args) {
-	    System.out.println("Bienvenue comment ca va");
+	    System.out.println("Bienvenue,tu vas bien");
     }
 }
